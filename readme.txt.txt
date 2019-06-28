@@ -11,8 +11,4 @@ add 4
 add 5
 add 6
 this is dev
-this is master
-this is heyu
-skcalcnakcn
-woai nizhongguo qinaidemuqin
-ddj 2
+jintian29hao
